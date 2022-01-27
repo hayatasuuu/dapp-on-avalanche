@@ -1,0 +1,30 @@
+{
+  "name": "dapp-on-avalanche",
+  "version": "1.0.0",
+  "description": "## Installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayatasuuu/dapp-on-avalanche.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayatasuuu/dapp-on-avalanche/issues"
+  },
+  "homepage": "https://github.com/hayatasuuu/dapp-on-avalanche#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "avalanche": "^3.11.0",
+    "dotenv": "^14.3.2",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.3",
+    "hardhat": "^2.8.3",
+    "solc": "^0.8.11"
+  }
+}
