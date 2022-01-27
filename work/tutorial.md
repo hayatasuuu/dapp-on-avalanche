@@ -1,3 +1,6 @@
+## Ref
+
+https://blog.logrocket.com/build-dapp-avalanche-complete-guide/
 
 ## Tutorial
 
@@ -214,7 +217,35 @@ $ npm run balances
 $ npm run deploy
 ```
 
+MetaMaskに記入
 
-## Ref
+```
+Network Name: Local Avalanche C-Chain
+Chain ID: 43112
+Currency Symbol: AVAX
+New RPC URL: http://localhost:9650/ext/bc/C/rpc
+```
 
-https://blog.logrocket.com/build-dapp-avalanche-complete-guide/
+Import Private Key
+
+```
+0x56289e99c94b6912bfc12adc093c9b51124f0dc54ac7a766b2bc5ccf558d8027
+```
+
+```bash
+$ npm install react react-dom next
+$ mkdir components context pages styles utilities views
+```
+
+上記ディレクトリを[ここ](https://github.com/ovieokeh/avalanche-dapp-tutorial)からコピー
+
+
+```bash
+$ npm install sass
+```
+
+```bash
+$ npm run start:client:dev
+```
+
+http://localhost:3000/
