@@ -1,5 +1,10 @@
 # dapp-on-avalanche
 
+## Ref
+
+- https://github.com/ovieokeh/avalanche-dapp-tutorial
+- https://blog.logrocket.com/build-dapp-avalanche-complete-guide/
+
 ## Installation
 
 ```bash
